@@ -5,5 +5,10 @@ public class Application {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Hello Og!");
+    }
+
+    public void boram(){
+        System.out.println("Boram");
     }
 }
